@@ -1,5 +1,7 @@
 # JSDayES Blog
 
+[![Build Status](https://travis-ci.org/jsDayES/blog.svg?branch=master)](https://travis-ci.org/jsDayES/blog)
+
 Blog for JSDayES.
 
 

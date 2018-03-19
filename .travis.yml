@@ -1,0 +1,13 @@
+language: node_js
+branches:
+  only:
+  - master
+
+install: npm install
+
+before_script:
+- git config --global user.name "JSDay Org"
+- git config --global user.email "hola@jsday.es"
+- sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+
+script: npm run build

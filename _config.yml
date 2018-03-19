@@ -78,5 +78,5 @@ theme: jsdayes
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:jsDayES/blog.git
+  repo: https://__GITHUB_TOKEN__@github.com/jsDayES/blog.git
   branch: gh-pages

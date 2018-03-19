@@ -2,11 +2,13 @@
 
 Blog for JSDayES.
 
+
 #### Requirements:
 
 - nvm
 - git
 - some text editor
+
 
 ### Setup
 
@@ -15,6 +17,7 @@ nvm install 9.8.0
 nvm use 9.8.0
 npm install
 ```
+
 
 ### Commands
 
@@ -26,3 +29,10 @@ npm install
 - `hexo new`       Create a new post.
 - `hexo publish`   Moves a draft post from _drafts to _posts folder.
 - `hexo server`    Start the server.
+
+
+### Deploy (to gh pages)
+
+```
+hexo clean && hexo generate && hexo deploy
+```

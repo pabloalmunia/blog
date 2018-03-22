@@ -4,19 +4,19 @@
 
 Blog for JSDayES.
 
-
 #### Requirements:
 
-- nvm
+- [nvm](http://github.com/creationix/nvm)
+- [hexo](http://hexo.io/)
 - git
-- some text editor
+- A text editor
 
 
 ### Setup
 
 ```
 nvm install 9.8.0
-nvm use 9.8.0
+nvm use
 npm install
 ```
 

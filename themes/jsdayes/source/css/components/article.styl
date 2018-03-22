@@ -8,7 +8,9 @@ article
   padding 8rem 0
 
   a
-    color $jsdayesYellow
+    color $articleTextColor
+    border-bottom: 2px solid $jsdayesYellow
+    font-weight 600
 
   &:not(:first-child):before
     content ''
@@ -37,6 +39,7 @@ article
 
     a
       display block
+      border none
       color $articleTitleColor
 
       span
@@ -63,6 +66,7 @@ article
 
     a
       color $jsdayesGray
+      border none
       &:hover
         color $jsdayesYellow
 
@@ -138,7 +142,10 @@ article
 
   p
     margin 2rem 0
-    line-height 1.8
+    line-height 1.5
+
+  ul
+    line-height 1.5
 
 
   .video-container

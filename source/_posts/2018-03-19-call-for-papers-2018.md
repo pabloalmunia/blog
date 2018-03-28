@@ -9,7 +9,7 @@ tags:
 ---
 Nos gustaría invitar a toda la comunidad de Javascript a [enviar sus propuestas para nuestro siguiente JSDayEs](https://www.koliseo.com/jsdayes/jsday-es-2018/r4p/5679439232892928#/) (20 de Octubre en Madrid).
 
-![](/blog/images/01_cfp/01_cfp.png)
+![](/blog/images/2018-03-19-call-for-papers-2018/01_cfp.png)
 
 **El CfP se cerrará el 31 de Mayo de 2018.**
 

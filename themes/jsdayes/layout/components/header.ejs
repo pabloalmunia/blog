@@ -10,7 +10,13 @@
   <nav class="site-navigation">
     <ul>
       <% for (var i in theme.menu){ %>
-        <li><a href="<%- url_for(theme.menu[i]) %>"><%= __(i) %></a></li>
+        <li>
+            <% if ((theme.menu[i] + "/index.html") == ("/" + path )){ %>
+                <span><%= __(i) %></span>
+            <% } else { %>
+                <li><a href="<%- url_for(theme.menu[i]) %>"><%= __(i) %></a></li>
+            <% } %>
+        </li>
       <% } %>
     </ul>
   </nav>

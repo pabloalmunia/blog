@@ -43,10 +43,16 @@ header
         display inline-block
         margin 0 0.5rem
 
-        a
+        a, span
           display block
           color $siteAColor
-          border-bottom: 2px solid $siteABgColor
           font-size 1.6rem
+          font-weight bolder
           line-height 2rem
           padding 0 1rem
+
+        a:hover
+            border-bottom: 2px solid $siteABgColor
+
+        span
+          border-bottom: 2px solid $siteAColor

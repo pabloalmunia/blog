@@ -75,4 +75,29 @@
   <link href="<%- config.root %>favicon.ico" rel="icon">
   <link rel="alternate" href="<% if (theme.rss){ %><%- theme.rss %><% } else { %><%- config.root %>atom.xml<% } %>" title="<%= config.title %>" type="application/atom+xml">
   <link rel="stylesheet" href="<%- config.root %>css/style.css" media="screen" type="text/css">
+
+  <!-- START Cookies Alert -->
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000"
+        },
+        "button": {
+          "background": "#fdc12c"
+        }
+      },
+      "theme": "edgeless",
+      "position": "bottom-right",
+      "content": {
+        "message": "<%= __('cookies_message') %>",
+        "dismiss": "<%= __('cookies_dismiss') %>",
+        "link": "<%= __('cookies_link') %>"
+      }
+    })});
+  </script>
+  <!-- END Cookies Alert -->
 </head>

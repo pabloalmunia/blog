@@ -17,6 +17,8 @@ Si tienes algo interesante o inspirador sobre lo que hablar cuéntanoslo y tendr
 
 **[¡Envía ahora tu propuesta al Call For Papers JSDayEs 2018!](https://www.koliseo.com/jsdayes/jsday-es-2018/r4p/5679439232892928#/)**
 
+<!-- more -->
+
 ## Algunos temas de los que puedes hablar
 
 - Javascript de vanguardia, Internals...

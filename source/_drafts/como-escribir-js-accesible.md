@@ -15,7 +15,6 @@ Por suerte, parece que, cada vez más, tanto empresas como gobiernos, le están 
 <!-- more -->
 <center><small>Imagen _"Accessibility First"_ de [Poakpong](https://www.flickr.com/photos/poakpong/4681315789/in/photostream/)</small></center>
 
-
 Así que nos gustaría compartir con vosotros algunos artículos y/o recursos que nos resultan muy interesantes para trabajar en páginas accesibles con JS:
 
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)

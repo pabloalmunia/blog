@@ -9,13 +9,13 @@ tags:
 
 Desde un contraste de color inadecuado hasta la falta (o escasa existencia) de etiquetas alt… ¿Quién no se ha encontrado alguna vez la famosa accesibilidad o, mejor dicho, la falta de ella, cuando estás visitando una página?
 
-Por suerte, parece que, cada vez más, tanto empresas como gobiernos, le están dando importancia a la accesibilidad web, algo que nosotros aplaudimos y por lo que apostamos.
+Por suerte, parece que, cada vez más, tanto empresas como gobiernos, dedican recursos y tiempo para mejorar la accesibilidad web, algo que nosotros aplaudimos y por lo que apostamos.
 
 {% asset_img accessibility_first.png '"Accessibility First" por Poakpong' %}
 <!-- more -->
 <center><small>Imagen _"Accessibility First"_ de [Poakpong](https://www.flickr.com/photos/poakpong/4681315789/in/photostream/)</small></center>
 
-Así que nos gustaría compartir con vosotros algunos artículos y/o recursos que nos resultan muy interesantes para trabajar en páginas accesibles con JS:
+Así que nos gustaría compartir con vosotros algunos artículos y/o recursos que nos resultan muy interesantes para trabajar en páginas accesibles con JS, ademáß de los clásico: [portal de la WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/) y de la [guía básica para las Accessible Rich Internet Applications](https://www.w3.org/WAI/standards-guidelines/aria/) no dejéis de visitar:
 
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 - [Web accessibility| Tools to help you design and develop web projects with accessibility in mind](https://github.com/collections/web-accessibility)

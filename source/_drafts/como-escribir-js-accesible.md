@@ -20,5 +20,6 @@ Así que nos gustaría compartir con vosotros algunos artículos y/o recursos qu
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 - [Web accessibility| Tools to help you design and develop web projects with accessibility in mind](https://github.com/collections/web-accessibility)
 - [What is Accessibility Testing?](https://www.guru99.com/accessibility-testing.html)
+- [Writing JavaScript with Accessibility in Mind](https://www.sitepoint.com/writing-javascript-with-accessibility-in-mind/)
 
 O el post _["How to Write Accessible JavaScript"](https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f)_ de Ben Robertson ([@bgrobertson](https://medium.com/@bgrobertson)) en el que nos da 4 consejos para acertar con la accesibilidad en JS (y, por cierto, es quien nos ha servido de inspiración para escribir este post).

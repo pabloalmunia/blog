@@ -1,5 +1,5 @@
 ---
-title: 'Hexo, tu nueva herramienta javascript para crear tu blog'
+title: 'Hexo, tu nueva herramienta javascript para crear blogs'
 tags:
 - Javascript
 - JS

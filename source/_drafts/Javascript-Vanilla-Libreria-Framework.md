@@ -13,15 +13,12 @@ tags:
 
 
 En el ecosistema del desarrollo de Javascript es común hablar de todos estos términos y cuando haces una entrevista de trabajo se nombran con toda seguridad todos o algunos de ellos.
-
 Para la gente no iniciada o recién iniciada en el mundo del desarrollo de Javascript al principio les cuesta entenderlo.
-
 Aunque cualquier comparación que haga no será del todo fidedigna y dará pie a interpretaciones diferentes, una de las que utilizo para explicarlo a las personas que no desarrollan es comparar el desarrollo de Javascript con cocinar.
 
 <!-- more -->
 
 Al final cocinar, desarrollar, requiere de un conjunto de habilidades y conocimientos que te sirven, llevados a la práctica, para crear un producto o hacer realidad una idea, sea un buen plato o un buen programa.
-
 Es evidente que para cocinar no hace falta haber ido a “Le Cordon Bleu” de París y que simplemente haber visto a tu padre/madre o a tu abuela o incluso un programa de MasterChef, te pueden animar a liarte la manta a la cabeza y ponerte a ello y hacer al menos un plato sencillo.
 
 ¿Qué se requiere para ello? Una fuente de calor, un recipiente adecuado, algunos ingredientes y una idea/receta.
@@ -33,15 +30,13 @@ Esto solo te lo da el estudio y/o años de experiencia junto a desarrolladores c
 
 Si vamos a hacer un cocido y lo cocinamos de manera artesanal, haciendo todos y cada unos de los pasos que necesitamos, con ingredientes del corral y la huerta, criados y cultivados por ti durante mucho tiempo, cocinando a fuego lento, en fuego de leña, en cazuela de barro… Nadie nos discutirá que ese cocido será el mejor cocido que puedas comer.
 Si vas a desarrollar en Javascript, puedes hacer lo mismo y ser lo más artesanal posible, y dedicarle muchas horas a ello y es probable que, si tienes el conocimiento y la experiencia suficientes, tu programa sea de mucha mayor calidad.
-
 Pero con el tiempo y las necesidades que tenemos hoy en día, si te quieres dedicar al mundo de del desarrollo de aplicaciones en Javascript, es decir, si montas o trabajas en un restaurante, no sale a cuenta hacer cocidos de manera artesanal, porque requeriría de mucho tiempo y esfuerzo, y para compensarlo tendrías que cobrar el cocido a un precio del Bully o del Celler de Can Roca.
 
 ### ¿Qué es una librería?
 
 Al final después de años de experiencia y de desarrollo de Javascript, nos hemos ido dando cuenta que hay cosas que se repiten para cocinar muchos programas y para ello se crearon las “libraries” o mal traducidas al español como librerías.
 Al final las librerías son herramientas o conjuntos de ingredientes precocinados, que nos sirven para acelerar y crear esas recetas o muchas nuevas de una manera más rápida y eficiente y con calidad y sabor notable.
-
-Por ejemplo un brick caldo de pollo, un preparado de verduras cortadas y congeladas, una batidora....
+Por ejemplo un brick de caldo de pollo, un preparado de verduras cortadas y congeladas, una batidora....
 En javascript tenemos muchas librerías también, la más famosa hace unos años y que aún perdura es jQuery. Tenemos otras como lodash, underscore, backbone…
 Todas ellas nos ayudan y ahorran tiempo para hacer nuestras recetas, dándonos cosas que se repiten en la mayoría de las recetas.
 
@@ -49,7 +44,6 @@ Todas ellas nos ayudan y ahorran tiempo para hacer nuestras recetas, dándonos c
 ¿Y esto es malo? Pues la experiencia demuestra que tarde o temprano sí. Se encontrará por ejemplo con que una receta no sabe bien y no sabrá por qué, porque hay un ingrediente de tu receta que también está en el caldo precocinado y hace que esa sobrecarga de sabor de ese ingrediente no le de a tu plato el sabor esperado, por ejemplo.
 Hay que saber hacer el caldo y saber qué lleva, es decir, haber hecho o conocer cómo funciona la librería usada.
 Si la cocinas tú lo más probable es que esa librería solo sirva en tu restaurante para unas determinadas recetas, o programas, y solo en algunos casos, adquiere suficiente fama como para que sea adoptada por cientos de miles de cocineros, desarrolladores, que cocinan recetas, programan aplicaciones, con las mismas necesidades que tú.
-
 Por eso, todo buen chef, desarrollador, al menos una vez en su vida, habrá hecho algunos buenos caldos desde cero o al menos habrá desgranado, analizado y estudiado una librería.
 Conocer la base es una garantía de saber hacer buenas recetas/programas.
 

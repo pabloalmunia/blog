@@ -50,7 +50,7 @@ La gestión del proceso de desarrollo, del versionado, la automatización de pru
 
 Espero no haberte abrumado, pero es que el desarrollo Javascript es actualmente bastante complejo y requiere de una gran cantidad de herramientas, soluciones y experiencia. En [CORUS](https://www.corusconsulting.com/) abordamos todo este basto campo con un modelo de formación continua denominado NINJA. Trabajando con cada una de las piezas en proyectos reales, teniendo el tiempo y la tranquilidad necesaria para interiorizar cada uno de los conceptos, formamos programadores auténticos programadores full-stack.
 
-En esta misma línea [CORUS](https://www.corusconsulting.com/) apoya el JSDay. Si quieres estar al tanto de algunas de las más interesantes novedades en Javascript, no puedes perderte el JSDay, una oportunidad única para estar al día de todas las posibilidades que se nos ofrecen en el ecosistema del desarrollo.
+En esta misma línea [CORUS](https://www.corusconsulting.com/) apoya el JSDayES. Si quieres estar al tanto de algunas de las más interesantes novedades en Javascript, no puedes perderte el JSDayES, una oportunidad única para estar al día de todas las posibilidades que se nos ofrecen en el ecosistema del desarrollo.
 
 <div class="sponsor" style="border-color: #44ae33">
   <a class="logo" href="https://www.corusconsulting.com/"><img src="corus.png" /></a>

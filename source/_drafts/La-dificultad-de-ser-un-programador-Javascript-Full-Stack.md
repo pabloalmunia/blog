@@ -48,12 +48,12 @@ La seguridad no puede ser olvidad en este repaso. Tanto en las fases de diseño,
 
 La gestión del proceso de desarrollo, del versionado, la automatización de pruebas, la integración continua y -si nos atrevemos- el despliegue continuo, nos ofrecen la posibilidad de acelerar nuestro trabajo sin perder el control, haciendo que nuestro trabajo se apoye en herramientas que nos facilitan el día a día.
 
-Espero no haberte abrumado, pero es que el desarrollo Javascript es actualmente bastante complejo y requiere de una gran cantidad de herramientas, soluciones y experiencia. En CORUS abordamos todo este basto campo con un modelo de formación continua denominado NINJA. Trabajando con cada una de las piezas en proyectos reales, teniendo el tiempo y la tranquilidad necesaria para interiorizar cada uno de los conceptos, formamos programadores auténticos programadores full-stack.
+Espero no haberte abrumado, pero es que el desarrollo Javascript es actualmente bastante complejo y requiere de una gran cantidad de herramientas, soluciones y experiencia. En [CORUS](https://www.corusconsulting.com/) abordamos todo este basto campo con un modelo de formación continua denominado NINJA. Trabajando con cada una de las piezas en proyectos reales, teniendo el tiempo y la tranquilidad necesaria para interiorizar cada uno de los conceptos, formamos programadores auténticos programadores full-stack.
 
-En esta misma línea CORUS apoya el JSDay. Si quieres estar al tanto de algunas de las más interesantes novedades en Javascript, no puedes perderte el JSDay, una oportunidad única para estar al día de todas las posibilidades que se nos ofrecen en el ecosistema del desarrollo.
+En esta misma línea [CORUS](https://www.corusconsulting.com/) apoya el JSDay. Si quieres estar al tanto de algunas de las más interesantes novedades en Javascript, no puedes perderte el JSDay, una oportunidad única para estar al día de todas las posibilidades que se nos ofrecen en el ecosistema del desarrollo.
 
 <div class="sponsor" style="border-color: #44ae33">
-  <img class="logo" src="corus.png" />
+  <a class="logo" href="https://www.corusconsulting.com/"><img src="corus.png" /></a>
   <div>
     <strong>CORUS</strong> tiene su origen en las firmas Tenentia, dedicada a la integración de sistemas y procesos, y M4V Interactive Business, dedicada, entre otros temas, a la tecnología para la producción y gestión de contenidos audiovisuales.
   <div>

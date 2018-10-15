@@ -62,15 +62,11 @@
 
   <% if (page.title){ %><meta property="og:title" content="<%= page.title %>"/><% } %>
 
-  <meta property="og:site_name" content="<%= config.title %>"/>
-
-  <% if(page.cover) { %>
-  <meta property="og:image" content="<%= page.cover %>" />
-  <% } else if(config.cover) { %>
-  <meta property="og:image" content="<%= config.cover %>"/>
-  <% } else { %>
-  <meta property="og:image" content="<%- config.root %>favicon.ico"/>
-  <% } %>
+  <%- open_graph({
+    twitter_card: 'summary_large_image',
+    twitter_id: page.twitter_creator,
+    twitter_site: config.open_graph.twitter_site
+  }) %>
 
   <link href="<%- config.root %>favicon.ico" rel="icon">
   <link rel="alternate" href="<% if (theme.rss){ %><%- theme.rss %><% } else { %><%- config.root %>atom.xml<% } %>" title="<%= config.title %>" type="application/atom+xml">

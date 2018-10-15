@@ -1,6 +1,11 @@
 ---
 title: ¿Está muriendo JavaScript en favor de TypeScript?
 tags:
+  - Javascript
+  - JS
+  - Bable
+  - Typescript
+  - Developer
 ---
 {% asset_img Blog_JSDayEs_3.jpg '' %}
 _Clickbait detected_. La verdad es que sí, el título de esta entrada solo tenía el propósito de llamar la atención.

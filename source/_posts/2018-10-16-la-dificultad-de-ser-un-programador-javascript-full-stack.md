@@ -1,12 +1,14 @@
 ---
 title: La dificultad de ser un programador Javascript Full Stack
 tags:
-- Javascript
-- JS
-- Corus
-- Full Stack
-- Developer
+  - Javascript
+  - JS
+  - Corus
+  - Full Stack
+  - Developer
+date: 2018-10-16 08:57:59
 ---
+
 
 Programar en Javascript parece sencillo a primera vista. Sobre todo, si se tiene en cuenta su humilde origen como pequeño complemento para ofrecer algo de dinamismo a las páginas HTML. Hoy en día la realidad es bien diferente, la complejidad de las aplicaciones y gran amplitud del ecosistema Javascript hace muy complicado ser un buen programador full-stack, con experiencia y conocimientos como para afrontar los retos que se nos plantean.
 

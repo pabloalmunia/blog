@@ -53,9 +53,11 @@ Espero no haberte abrumado, pero es que el desarrollo Javascript es actualmente 
 
 En esta misma línea [CORUS](https://www.corusconsulting.com/) apoya el JSDayES. Si quieres estar al tanto de algunas de las más interesantes novedades en Javascript, no puedes perderte el JSDayES, una oportunidad única para estar al día de todas las posibilidades que se nos ofrecen en el ecosistema del desarrollo.
 
+{% raw %}
 <div class="sponsor" style="border-color: #44ae33">
   <a class="logo" href="https://www.corusconsulting.com/"><img src="corus.png" alt="Corus" /></a>
-  <div>
+  <div class="bio">
     <strong>CORUS</strong> tiene su origen en las firmas Tenentia, dedicada a la integración de sistemas y procesos, y M4V Interactive Business, dedicada, entre otros temas, a la tecnología para la producción y gestión de contenidos audiovisuales.
   </div>
 </div>
+{% endraw %}

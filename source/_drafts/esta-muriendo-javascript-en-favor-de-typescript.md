@@ -35,16 +35,20 @@ Por otro lado, TypeScript va integrándose más y más en las librerías y frame
 
 Para finalizar la entrada, remarcar que el propósito principal de la misma no era más que reflexionar sobre cómo han evolucionado ambos lenguajes y el futuro que nos depara respecto a su uso. Por mi parte, y mientras TypeScript no dé un giro radical, intentaré utilizarlo siempre que pueda (y sea la solución adecuada) en mis futuros proyectos. Así que, si en un futuro el uso de TypeScript supera al de JavaScript (y sigo vivo en ese hipotético momento), sumaré mi granito de arena.
 
+{% raw %}
 <div class="sponsor" style="border-color: #e3692e">
   <a class="logo" href="https://babel.es/"><img src="babel.png"  alt="Babel"/></a>
-  <div>
+  <div class="bio">
     <strong>BABEL</strong> es una empresa internacional que presta servicios tecnológicos orientados a acompañar a grandes organizaciones en su proceso de Transformación Digital. Tenemos oficinas en Barcelona, Casablanca, Ciudad de México, Lisboa, Londres, Madrid, Querétaro y Sevilla.
     <br />
     <a href="http://trabajaen.babel.es/">¿Te gustaría trabajar con nosotros?</a>
   </div>
 </div>
+{% endraw %}
 
+{% raw %}
 <div class="post-author" style="border-color: #e3692e">
   <div class="bio">Por <strong>Jorge González Valencia</strong>, Desarrollador Sénior del Centro de Desarrollo de Movilidad de BABEL.</div>
   <img class="photo" src="Jorge Gonzalez Valencia.jpg" alt="" />
 </div>
+{% endraw %}

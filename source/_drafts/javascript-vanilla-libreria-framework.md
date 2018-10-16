@@ -68,9 +68,11 @@ Y un framework no progresivo es por ejemplo Angular. Que sería como la Thermomi
 
 Por eso [Kairós](https://www.kairosds.com/) está formado y buscamos profesionales que conocen la artesanía de Javascript vanilla, que conocen varias librerías y/o al menos un framework. Apostamos por el desarrollo profesional progresivo y constante de todos nuestros desarrolladores, ofreciéndoles formación interna y una bolsa económica para que haga cursos y se certifique, sin más contraprestación de que aprenda y evolucione.
 
+{% raw %}
 <div class="sponsor" style="border-color: #fe7902">
   <a class="logo" href="https://www.kairosds.com/"><img src="kairos.png" alt="Kairós" /></a>
-  <div>
+  <div class="bio">
     En <strong>Kairós DS</strong> transformamos organizaciones apoyadas en principios Agile, basándonos en disciplinas digitales. (Diseño UX, DevOps arquitectura y Desarrollo de Software).
   </div>
 </div>
+{% endraw %}
